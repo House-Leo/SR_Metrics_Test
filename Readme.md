@@ -1,8 +1,12 @@
 测试TestSet的PSNR, SSIM, LPIPS，并按照最终数值划分出较好的图片。
 
 说明：
+
 输入数据集：
-①真实图像 ②Ours的测试图像 ③对比方法的测试图像
+①真实图像 
+②Ours的测试图像 
+③对比方法的测试图像
+
 输出结果：
 ①真实图像与Ours的PSNR, SSIM, LPIPS三个数值 ②真实图像与对比方法的PSNR, SSIM, LPIPS三个数值
 ③真实图像patch与Ours patchs的PSNR, SSIM, LPIPS三个数值
