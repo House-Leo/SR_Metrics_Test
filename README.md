@@ -1,4 +1,4 @@
-# Noise-patch-for-RISR
+# SR_Metrics_Test
 # 测试TestSet的PSNR, SSIM, LPIPS，并按照最终数值划分出较好的图片。
 
 ## 说明：
